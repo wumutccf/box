@@ -1,16 +1,20 @@
-[
-    
-    { "name": "肥猫", "url": "http://我不是.肥猫.live/TV/tvzb.txt&&&http://3650000.xyz/api/360.php?cid=6"},
-    { "name": "Ray0", "url": "https://mirror.ghproxy.com/raw.bgithub.xyz/dxawi/0/main/tvlive.txt&&&http://3650000.xyz/api/360.php?cid=7"},
-    { "name": "IPV6", "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u&&&http://3650000.xyz/api/360.php?cid=8"},
-    { "name": "挺快", "url": "http://124.223.177.85:88/svip/直播挺快.txt&&&http://3650000.xyz/api/360.php?cid=8"},
+    [
+    {"name":"wumuzb","url":"https://pan1.tenfell.cn:50014/webos/link/d4ddb360ed5441b0b3a3fafbb5786085/liu673cn_box_Public_m_l.txt&&&http://3650000.xyz/api/360.php?cid=5"},
+    {"name":"ssili126_jdtv1","url":"https://raw.bgithub.xyz/ssili126/tv/main/itvlist.txt&&&http://3650000.xyz/api/360.php?cid=5"},
+    {"name":"ssili126_jdtv2","url":"https://raw.bgithub.xyz/ssili126/tv/main/itvlist.m3u&&&http://3650000.xyz/api/360.php?cid=5"},
+    {"name":"ssili126_jdtv3","url":"https://raw.bgithub.xyz/ssili126/ds/main/ds.txt&&&http://3650000.xyz/api/360.php?cid=5"},
+    {"name":"Supprise","url":"https://raw.bgithub.xyz/Supprise0901/TVBox_live/main/live.txt&&&http://3650000.xyz/api/360.php?cid=5"},
+    {"name":"肥猫","url":"http://我不是.肥猫.live/TV/tvzb.txt&&&http://3650000.xyz/api/360.php?cid=6"},
+    {"name":"Ray0","url":"https://mirror.ghproxy.com/raw.githubusercontent.com/dxawi/0/main/tvlive.txt&&&http://3650000.xyz/api/360.php?cid=7"},
+    {"name":"IPV6","url":"https://live.fanmingming.com/tv/m3u/ipv6.m3u&&&http://3650000.xyz/api/360.php?cid=8"},
+    {"name":"挺快","url":"http://124.223.177.85:88/svip/直播挺快.txt&&&http://3650000.xyz/api/360.php?cid=8"},
     {"name":"俊于","url":"http://home.jundie.top:81/Cat/tv/live.txt&&&https://img.xjh.me/random_img.php"},
-    { "name": "菜妮丝", "url": "https://tvbox.cainisi.cf/TV&&&https://cdn.seovx.com/?mom=302"},
-    { "name": "香雅情", "url": "https://raw.kkgithub.com/xyq254245/xyqonlinerule/main/live.txt&&&http://3650000.xyz/api/360.php?cid=8"},
-{"name":"范明","url":"https://raw.kkgithub.com/fanmingming/live/main/tv/m3u/ipv6.m3u&&&https://api.likepoems.com/img/mc"}, 
-{"name":"潇洒","url":"https://download.kstore.space/download/2863/live.txt&&&https://www.dmoe.cc/random.php"}, 
-{"name":"吾爱","url":"http://52bsj.vip:98/wuailive&&&https://api.likepoems.com/img/mc"},
-{"name":"月光","url":"http://52bsj.vip:81/api/v3/file/get/79119/ZB.txt?sign=iChDXDC7WJRTp7yWAyVdbY3si5sJ5eFwEgaR35YQGSo%3D%3A0&&&http://3650000.xyz/api/360.php?cid=9"},
-    { "name": "太阳", "url": "http://www.weetai.cn/mtvzb.txt&&&http://3650000.xyz/api/360.php?cid=6"
+    {"name":"菜妮丝","url":"https://tvbox.cainisi.cf/TV&&&https://cdn.seovx.com/?mom=302"},
+    {"name":"香雅情","url":"https://raw.bgithub.xyz/xyq254245/xyqonlinerule/main/live.txt&&&http://3650000.xyz/api/360.php?cid=8"},
+    {"name":"范明","url":"https://raw.bgithub.xyz/fanmingming/live/main/tv/m3u/ipv6.m3u&&&https://api.likepoems.com/img/mc"},
+    {"name":"潇洒","url":"https://download.kstore.space/download/2863/live.txt&&&https://www.dmoe.cc/random.php"},
+    {"name":"吾爱","url":"http://52bsj.vip:98/wuailive&&&https://api.likepoems.com/img/mc"},
+    {"name":"月光","url":"http://52bsj.vip:81/api/v3/file/get/79119/ZB.txt?sign=iChDXDC7WJRTp7yWAyVdbY3si5sJ5eFwEgaR35YQGSo%3D%3A0&&&http://3650000.xyz/api/360.php?cid=9"},
+    {"name":"太阳","url":"http://www.weetai.cn/mtvzb.txt&&&http://3650000.xyz/api/360.php?cid=6"
     }
-]
+    ]
