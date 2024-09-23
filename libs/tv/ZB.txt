@@ -1,28 +1,4 @@
     [
-    {
-    "name":"聚合TV直播",
-    "url":"https://3ii.cc/sQD&&&https://tuapi.eees.cc/api.php?category=meinv&type=302"
-    },
-    {
-    "name":"猫TV直播",
-    "url":"http://rihou.cc:567/gggg.nzk&&&https://tuapi.eees.cc/api.php?category=meinv&type=302"
-    },
-    {
-    "name":"开心软件直播",
-    "url":"http://ttkx.live:55/lib/kx2024.txt&&&https://tuapi.eees.cc/api.php?category=meinv&type=302"
-    },
-    {
-    "name":"V6明线路",
-    "url":"https://live.fanmingming.com/tv/m3u/ipv6.m3u&&&https://tuapi.eees.cc/api.php?category=meinv&type=302"
-    },
-    {
-    "name":"斗鱼线路",
-    "url":"https://github.moeyy.xyz/https://raw.bgithub.xyz/Ftindy/IPTV-URL/main/douyuyqk.m3u&&&https://tuapi.eees.cc/api.php?category=meinv&type=302"
-    },
-    {
-    "name":"MV专线",
-    "url":"https://github.moeyy.xyz/https://raw.bgithub.xyz/lystv/short/main/影视/tvb/MTV.txt&&&https://tuapi.eees.cc/api.php?category=meinv&type=302"
-    },
     {"name":"📺wumuzb_1_TV","url":"https://3ii.cc/gyT&&&http://3650000.xyz/api/360.php?cid=1"},
     {"name":"📺wumuzb_2_TV","url":"https://3ii.cc/gDE&&&http://3650000.xyz/api/360.php?cid=1"},
     {"name":"📺lalifeier_1_zubo_TV","url":"https://3ii.cc/e2R&&&http://3650000.xyz/api/360.php?cid=2"},
