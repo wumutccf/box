@@ -1,4 +1,7 @@
     [
+    {"name":"📺王小二直播_lives","url":"https://3ii.cc/Szsg&&&https://tuapi.eees.cc/api.php?category=meinv&type=302"},
+    {"name":"📺小米直播_1_lives","url":"https://3ii.cc/SzsA&&&https://tuapi.eees.cc/api.php?category=meinv&type=302"},
+    {"name":"📺小米直播_2_lives","url":"https://3ii.cc/SzsB&&&&&&https://tuapi.eees.cc/api.php?category=meinv&type=302"},
     {"name":"📺wumuzb_1_TV","url":"https://3ii.cc/gyT&&&http://3650000.xyz/api/360.php?cid=1"},
     {"name":"📺wumuzb_2_TV","url":"https://3ii.cc/gDE&&&http://3650000.xyz/api/360.php?cid=1"},
     {"name":"📺lalifeier_1_zubo_TV","url":"https://3ii.cc/e2R&&&http://3650000.xyz/api/360.php?cid=2"},
