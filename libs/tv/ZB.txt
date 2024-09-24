@@ -16,6 +16,7 @@
     {"name":"📺mengxianshengaaa_1_TV","url":"https://3ii.cc/e8Z&&&https://tuapi.eees.cc/api.php?category=meinv&type=302"},
     {"name":"📺mengxianshengaaa_2_TV","url":"https://3ii.cc/SjTB&&&https://tuapi.eees.cc/api.php?category=meinv&type=302"},
     {"name":"📺mlzlzj_hunan_TV","url":"https://3ii.cc/e7Y&&&https://tuapi.eees.cc/api.php?category=meinv&type=302"},
+    {"name":"📺itv.22m.top_TV","url":"https://3ii.cc/SpQ7&&&https://tuapi.eees.cc/api.php?category=meinv&type=302"},
     {"name":"📺balala2oo8_TV","url":"https://3ii.cc/Q2z&&&https://tuapi.eees.cc/api.php?category=meinv&type=302"},
     {"name":"📺国外源IPTV综合源","url":"https://3ii.cc/D4B&&&https://tuapi.eees.cc/api.php?category=meinv&type=302"},
     {"name":"📺国外源IPTV综合源","url":"https://3ii.cc/e9G&&&https://tuapi.eees.cc/api.php?category=meinv&type=302"},
