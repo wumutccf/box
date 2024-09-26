@@ -4,6 +4,7 @@
     {"name":"📺小米直播_2_lives","url":"https://3ii.cc/SzsB&&&https://tuapi.eees.cc/api.php?category=meinv&type=302"},
     {"name":"📺南风直播_lives","url":"https://3ii.cc/STLr&&&https://tuapi.eees.cc/api.php?category=meinv&type=302"},
     {"name":"📺摸鱼儿直播_lives","url":"https://3ii.cc/STLB&&&https://tuapi.eees.cc/api.php?category=meinv&type=302"},
+    {"name":"📺神助AI直播_lives","url":"https://3ii.cc/SxUK&&&https://tuapi.eees.cc/api.php?category=meinv&type=302"},
     {"name":"📺wumuzb_1_TV","url":"https://3ii.cc/gyT&&&https://tuapi.eees.cc/api.php?category=meinv&type=302"},
     {"name":"📺wumuzb_2_TV","url":"https://3ii.cc/gDE&&&https://tuapi.eees.cc/api.php?category=meinv&type=302"},
     {"name":"📺lalifeier_1_zubo_TV","url":"https://3ii.cc/e2R&&&https://tuapi.eees.cc/api.php?category=meinv&type=302"},
